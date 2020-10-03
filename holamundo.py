@@ -1,3 +1,4 @@
 print 'helloworld'
 for i in range(4):
-    print'holaaa'
+    print'holaaa','frfr'
+    print'holaaa','frfr'
